@@ -1,6 +1,6 @@
 module github.com/Qovery/pleco/pkg/do
 
-go 1.24.0
+go 1.25.0
 
 replace github.com/Qovery/pleco/pkg/common => ../common
 
@@ -28,10 +28,10 @@ require (
 	github.com/rs/xid v1.2.1 // indirect
 	github.com/spf13/cobra v1.2.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.45.0 // indirect
-	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/crypto v0.51.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
-	golang.org/x/text v0.31.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.38.0 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 )
